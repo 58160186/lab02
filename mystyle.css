@@ -1,4 +1,10 @@
 
+
+
+
+
+
+
 body { 
     background: url("bg1.jpg") no-repeat fixed center;
     background-size: 1920px 1080px; 
@@ -48,6 +54,28 @@ div.desc {
     background-color:#FFFFFF ;
     
 }
+
+
+table, td, th {    
+    border: 1px solid #ddd;
+    text-align: center;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    padding: 15px;
+}
+
+.table td colspan  {
+ column-span:2; 
+}
+
+
+
 
 
 

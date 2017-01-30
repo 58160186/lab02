@@ -57,7 +57,7 @@ div.desc {
 
 
 table, td, th {    
-    border: 1px solid #ddd;
+    border: 2px solid black;
     text-align: center;
 }
 
@@ -67,12 +67,10 @@ table {
 }
 
 th, td {
-    padding: 15px;
+    padding: 10px;
 }
 
-.table td colspan  {
- column-span:2; 
-}
+
 
 
 

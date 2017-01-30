@@ -1,10 +1,4 @@
 
-
-
-
-
-
-
 body { 
     background: url("bg1.jpg") no-repeat fixed center;
     background-size: 1920px 1080px; 
@@ -15,7 +9,7 @@ body {
 
 p {
     font-family: Bangna New;
-    font-size: 60px;
+    font-size: 50px;
     color: red;
     text-align: center;
     
@@ -57,20 +51,55 @@ div.desc {
 
 
 table, td, th {    
-    border: 2px solid black;
+    border: 1px solid white;
     text-align: center;
+    
 }
 
 table {
     border-collapse: collapse;
     width: 100%;
+    
 }
 
 th, td {
-    padding: 10px;
+    padding: 1px;
 }
 
+ .DayTime {
+    background: #1C1C1C;
+    font-family: Bangna New;
+    font-size: 20px;
+    color: white;
+    border-bottom:1px solid white;
+     padding:3px;
+}
 
+.DayTimeLast {
+    text-align: left;
+}
+
+.Monday {
+background: white;
+
+}
+
+.Tuesday {
+    background: white;
+}
+
+.WedDay {
+    background: white;
+}
+
+.ThursDay{
+    background: white;
+}
+
+.SatDay {
+
+background: white;
+}
 
 
 

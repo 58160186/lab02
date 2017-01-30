@@ -6,36 +6,52 @@ body {
     
 }
 
-div {
-   width: 50px;
-    height: 20px;
-
-}
-
-
 
 p {
-    font-family: verdana;
-    font-size: 40px;
+    font-family: Bangna New;
+    font-size: 60px;
     color: red;
     text-align: center;
     
 }
 
 h1 {
-font-family: verdana;
-    font-size: 30px;
+font-family: Waffle Light ;
+    font-size: 50px;
     color: black;
     text-align: center;
+    
 
 }
 
-div.mod {
-  float: center;
-  width: 25%;
-  
-
+div.img {
+    margin: 50px;
+    border: 1px solid white;
+    float: left;
+    width: 220px;
 }
+
+div.img:hover {
+    border: 1px solid black;
+}
+
+div.img img {
+    width: 100%;
+    height: auto;
+}
+
+div.desc {
+    padding: 10px;
+    text-align: center;
+    font-family: Waffle Light;
+    font-size: 30px;
+    background-color:#FFFFFF ;
+    
+}
+
+
+
+
 
 
 

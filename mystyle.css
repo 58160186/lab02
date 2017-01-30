@@ -51,55 +51,56 @@ div.desc {
 
 
 table, td, th {    
-    border: 1px solid white;
+    border: 2px solid white;
     text-align: center;
+    
     
 }
 
 table {
     border-collapse: collapse;
-    width: 100%;
+    width: 90%;
+    background: #F5F5DC;
+    
+    
+    
+    
+    
+    
     
 }
 
 th, td {
-    padding: 1px;
+    padding: 3px;
+    
 }
 
  .DayTime {
-    background: #1C1C1C;
+    background: #F5F5DC;
     font-family: Bangna New;
     font-size: 20px;
-    color: white;
+    color: black;
     border-bottom:1px solid white;
-     padding:3px;
+    padding: 5px;
+    
+    
+     
 }
 
 .DayTimeLast {
     text-align: left;
+    font-weight: bold;
+    font-family: Bangna New;
 }
 
-.Monday {
-background: white;
+.Learn {
+background: #F4A460;
+font-family: Bangna New;
+
 
 }
 
-.Tuesday {
-    background: white;
-}
 
-.WedDay {
-    background: white;
-}
-
-.ThursDay{
-    background: white;
-}
-
-.SatDay {
-
-background: white;
-}
 
 
 
